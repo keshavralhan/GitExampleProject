@@ -1,0 +1,2 @@
+# GitExampleProject
+Git Training repository
